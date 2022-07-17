@@ -12,7 +12,7 @@
 - Clone the project
 - Project root terminal
 - composer install
-- Configurate DB .env
+- Settings DB .env
 - php artisan migrate:fresh
 - php artisan db:seed
 
